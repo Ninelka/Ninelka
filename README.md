@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-
-![Ninelka GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ninelka&count_private=true&hide=contribs&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninelka&count_private=true&hide=tsql&langs_count=7&theme=vue-dark&layout=compact)
+<a href="https://github.com/Ninelka?tab=repositories"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ninelka&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=vue-dark" alt="Ninelka GitHub Stats" /></a>
+<a href="https://github.com/Ninelka?tab=repositories"><img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninelka&layout=compact&langs_count=6&theme=vue-dark" alt="Top Languages"/></a>
 
 ### 🤝🏻 &nbsp;Contact Me
 
