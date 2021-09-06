@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ninel-gruzdeva-a4045817b/"><img src="https://img.shields.io/badge/-Ninel%20Gruzdeva-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ninelgruzdeva@gmail.com"><img src="https://img.shields.io/badge/-ninelgruzdeva@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://vk.com/ninelgruzdeva"><img src="https://img.shields.io/badge/-NinelGruzdeva-4c75a3?style=flat&logo=VK&logoColor=white"/></a>
-<a href="https://instagram.com/ninelka66"><img src="https://img.shields.io/badge/-@ninelka66-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/NinelGruzdeva"><img src="https://img.shields.io/badge/-NinelGruzdeva-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://t.me/NinelGruzdeva"><img src="https://img.shields.io/badge/-NinelGruzdeva-0088cc?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
