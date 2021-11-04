@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm)
 
 
 <a href="https://github.com/Ninelka?tab=repositories"><img align="center" width="54%" src="https://github-readme-stats.vercel.app/api?username=Ninelka&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=vue-dark" alt="Ninelka GitHub Stats" /></a>
