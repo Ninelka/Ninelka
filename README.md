@@ -17,25 +17,18 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma)\
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm)
-
+| Basic  | Design instruments | CSS frameworks | Build tools | Frameworks | VCS | Code Editors/ IDEs | Others |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)  | ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap) | ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack) | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) | ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+| ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)  | ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)  | ![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui) | ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite) | ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular) | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) | ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm) | ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) |  | ![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma) | | ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic) | ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab) | | ![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react-router)
 
 <a href="https://github.com/Ninelka?tab=repositories"><img align="center" width="54%" src="https://github-readme-stats.vercel.app/api?username=Ninelka&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=vue-dark" alt="Ninelka GitHub Stats" /></a>
 <a href="https://github.com/Ninelka?tab=repositories"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninelka&layout=compact&langs_count=6&theme=vue-dark" alt="Top Languages"/></a>
+
+### :woman_technologist: &nbsp;Codewars
+
+![Codewars](https://www.codewars.com/users/Ninelka66/badges/micro)&nbsp;
 
 ### 🤝🏻 &nbsp;Contact Me
 
